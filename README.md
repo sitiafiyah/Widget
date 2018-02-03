@@ -1,6 +1,24 @@
 # My Garden
 Android AppWidgets lesson
 
+## Screenshot Aplikasi
+<p align="center">
+  <img src="https://github.com/sitiafiyah/Widget/blob/master/1.PNG"/>
+  <img src="https://github.com/sitiafiyah/Widget/blob/master/2.PNG"/>
+  <img src="https://github.com/sitiafiyah/Widget/blob/master/6.PNG"/>
+  <img src="https://github.com/sitiafiyah/Widget/blob/master/3.PNG"/>
+  <img src="https://github.com/sitiafiyah/Widget/blob/master/4.PNG"/>
+  <img src="https://github.com/sitiafiyah/Widget/blob/master/5.PNG"/>
+</p>
+
+## Identitas
+* Nama : Siti Afiyah
+* Kelas : XII RPL 5
+* No. Urut : 28
+* NIS : 4839/1558.070
+* Nama Sekolah : SMK Telkom Malang
+
+
 ## The app
 My Garden is a simple game that allows you to add plants to your garden and keep them alive by watering them on time.
 The app illustrates the power of widgets and collection widgets by making it easier for the user to monitor and water their plants from the home screen
